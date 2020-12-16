@@ -26,4 +26,4 @@ Data Science Portfolio that displays samples of various works, from exploratory 
 * Utilized AutoKeras, an emerging AutoML system that tuned its own parameters over multiple runs to optimize predictions and results
 * Built own custom model based off AutoKeras' tuned hyperparameters to also explore effects and impacts of hyperparameters
 
-![])https://github.com/briankosiadi/Brian_Portfolio/blob/main/images/positive_example.png)
+![](https://github.com/briankosiadi/Brian_Portfolio/blob/main/images/positive_example.png)
