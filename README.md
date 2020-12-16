@@ -5,7 +5,11 @@ Data Science Portfolio
 * Processed and cleaned data on avocado prices and volume sales from Hass Avocado Board
 * Analyzed trend of sales based on variables such as season and location
 
+![](https://github.com/briankosiadi/Brian_Portfolio/blob/main/images/Avocado%20season%20price.png)
+
 # [MLB Pitch Analysis, Pitch Type Classifier](https://github.com/briankosiadi/MLB-Pitches/blob/master/MLB%20Pitches.ipynb)
 * Trained a binary classifier to predict whether a pitcher would throw a fastball or offspeed pitch with 60~70% accuracy
 * Prediction was based on variables such as pitch count, game score, runners on base, and left/right handed pitcher/batter
 * Tested several types of classifiers such as KNN, SVC, GBC in order to find optimal results
+
+![](https://github.com/briankosiadi/Brian_Portfolio/blob/main/images/Model%20Comparison.png)
