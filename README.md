@@ -1,4 +1,4 @@
-# Brian_Portfolio
+# Brian Kosiadi's Portfolio
 Data Science Portfolio that displays samples of various works, from exploratory data analysis to predictive modeling and machine learning.
 
 # [Avocado Sales: Experimental Design/Business Project](https://github.com/briankosiadi/Avocado-Sales)
