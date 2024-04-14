@@ -1,6 +1,13 @@
 # Brian Kosiadi's Portfolio
 Data Science Portfolio that displays samples of various works, from exploratory data analysis to predictive modeling and machine learning.
 
+# [Super Bowl 2022: Score Prediction](https://github.com/briankosiadi/superbowl-2022)
+* Scraped and compiled dataset of 50+ years of NFL game data
+* Observed correlations of columns to highlight key factors and removing redundant stats in predicting outcome
+* Tested several classifiers suchas GBC, ADA, and SVC for model robustness
+
+![](images/superbowl2022.png)
+
 # [Avocado Sales: Experimental Design/Business Project](https://github.com/briankosiadi/Avocado-Sales)
 * Processed and cleaned data on avocado prices and volume sales from Hass Avocado Board
 * Analyzed trend of sales based on variables such as season and location
