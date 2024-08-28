@@ -4,7 +4,7 @@ Data Science Portfolio that displays samples of various works, from exploratory 
 #### Technical Skills: Python, SQL, Tableau, PowerBI
 
 ## Education
-- M.S., Business Analytics	| University of California - Irvine (_July 2022_)	 			        		
+- M.S., Business Analytics | University of California - Irvine (_July 2022_)	 			        		
 - B.M., Violin Performance | University of Michigan - Ann Arbor (_May 2018_)
 
 # [Super Bowl 2022: Score Prediction](https://github.com/briankosiadi/superbowl-2022)
