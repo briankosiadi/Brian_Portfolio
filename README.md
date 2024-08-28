@@ -39,4 +39,4 @@ Data Science Portfolio that displays samples of various works, from exploratory 
 * Utilized AutoKeras, an emerging AutoML system that tuned its own parameters over multiple runs to optimize predictions and results
 * Built own custom model based off AutoKeras' tuned hyperparameters to also explore effects and impacts of hyperparameters
 
-![](images/positive_example%20(2).png)
+![](images/lung_cancer_cnn.png)
