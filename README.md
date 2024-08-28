@@ -1,5 +1,11 @@
-# Brian Kosiadi's Portfolio
+# Data Scientist
 Data Science Portfolio that displays samples of various works, from exploratory data analysis to predictive modeling and machine learning.
+
+#### Technical Skills: Python, SQL, Tableau, PowerBI
+
+## Education
+- M.S., Business Analytics	| University of California - Irvine (_July 2022_)	 			        		
+- B.M., Violin Performance | University of Michigan - Ann Arbor (_May 2018_)
 
 # [Super Bowl 2022: Score Prediction](https://github.com/briankosiadi/superbowl-2022)
 * Scraped and compiled dataset of 50+ years of NFL game data
